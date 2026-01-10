@@ -1,0 +1,14 @@
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\bin\Debug\net10.0\30Dec.exe
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\bin\Debug\net10.0\30Dec.deps.json
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\bin\Debug\net10.0\30Dec.runtimeconfig.json
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\bin\Debug\net10.0\30Dec.dll
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\bin\Debug\net10.0\30Dec.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\30Dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\30Dec.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\30Dec.AssemblyInfo.cs
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\30Dec.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\30Dec.dll
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\refint\30Dec.dll
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\30Dec.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\30Dec.genruntimeconfig.cache
+C:\Users\anjal\Downloads\.NetCapgemini\30Dec\obj\Debug\net10.0\ref\30Dec.dll

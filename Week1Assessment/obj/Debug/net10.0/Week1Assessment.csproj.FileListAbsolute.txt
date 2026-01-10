@@ -1,0 +1,14 @@
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.AssemblyInfo.cs
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\bin\Debug\net10.0\Week1Assessment.exe
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\bin\Debug\net10.0\Week1Assessment.deps.json
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\bin\Debug\net10.0\Week1Assessment.runtimeconfig.json
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\bin\Debug\net10.0\Week1Assessment.dll
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\bin\Debug\net10.0\Week1Assessment.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.dll
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\refint\Week1Assessment.dll
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.genruntimeconfig.cache
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\ref\Week1Assessment.dll

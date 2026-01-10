@@ -1,0 +1,14 @@
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\bin\Debug\net10.0\CollectionAssessment.exe
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\bin\Debug\net10.0\CollectionAssessment.deps.json
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\bin\Debug\net10.0\CollectionAssessment.runtimeconfig.json
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\bin\Debug\net10.0\CollectionAssessment.dll
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\bin\Debug\net10.0\CollectionAssessment.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\CollectionAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\CollectionAssessment.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\CollectionAssessment.AssemblyInfo.cs
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\CollectionAssessment.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\CollectionAssessment.dll
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\refint\CollectionAssessment.dll
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\CollectionAssessment.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\CollectionAssessment.genruntimeconfig.cache
+C:\Users\anjal\Downloads\.NetCapgemini\CollectionAssessment\obj\Debug\net10.0\ref\CollectionAssessment.dll

@@ -1,0 +1,14 @@
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\bin\Debug\net10.0\29oct.exe
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\bin\Debug\net10.0\29oct.deps.json
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\bin\Debug\net10.0\29oct.runtimeconfig.json
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\bin\Debug\net10.0\29oct.dll
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\bin\Debug\net10.0\29oct.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\29oct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\29oct.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\29oct.AssemblyInfo.cs
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\29oct.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\29oct.dll
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\refint\29oct.dll
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\29oct.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\29oct.genruntimeconfig.cache
+C:\Users\anjal\Downloads\.NetCapgemini\29oct\obj\Debug\net10.0\ref\29oct.dll
