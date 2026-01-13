@@ -12,3 +12,4 @@ C:\Users\anjal\Downloads\.NetCapgemini\OopsPillar\obj\Debug\net10.0\refint\OopsP
 C:\Users\anjal\Downloads\.NetCapgemini\OopsPillar\obj\Debug\net10.0\OopsPillar.pdb
 C:\Users\anjal\Downloads\.NetCapgemini\OopsPillar\obj\Debug\net10.0\OopsPillar.genruntimeconfig.cache
 C:\Users\anjal\Downloads\.NetCapgemini\OopsPillar\obj\Debug\net10.0\ref\OopsPillar.dll
+C:\Users\anjal\Downloads\.NetCapgemini\OopsPillar\obj\Debug\net10.0\OopsPillar.sourcelink.json

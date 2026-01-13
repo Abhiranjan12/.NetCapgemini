@@ -1,0 +1,15 @@
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\bin\Debug\net10.0\12jan.exe
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\bin\Debug\net10.0\12jan.deps.json
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\bin\Debug\net10.0\12jan.runtimeconfig.json
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\bin\Debug\net10.0\12jan.dll
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\bin\Debug\net10.0\12jan.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.AssemblyInfo.cs
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.sourcelink.json
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.dll
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\refint\12jan.dll
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.pdb
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\12jan.genruntimeconfig.cache
+C:\Users\anjal\Downloads\.NetCapgemini\12jan\obj\Debug\net10.0\ref\12jan.dll

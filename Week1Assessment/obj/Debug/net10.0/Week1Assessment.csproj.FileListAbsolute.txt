@@ -12,3 +12,4 @@ C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\refint\
 C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.pdb
 C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.genruntimeconfig.cache
 C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\ref\Week1Assessment.dll
+C:\Users\anjal\Downloads\.NetCapgemini\Week1Assessment\obj\Debug\net10.0\Week1Assessment.sourcelink.json
